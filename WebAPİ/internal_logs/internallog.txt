@@ -1,0 +1,462 @@
+2023-04-09 17:20:52.8862 Info Message Template Auto Format enabled
+2023-04-09 17:20:53.3028 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-09 17:20:53.3423 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-09 17:22:38.8373 Info Message Template Auto Format enabled
+2023-04-09 17:22:39.1775 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-09 17:22:39.2200 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-09 17:22:51.5084 Info Message Template Auto Format enabled
+2023-04-09 17:22:51.9784 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-09 17:22:52.0324 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-09 17:24:01.2322 Info Message Template Auto Format enabled
+2023-04-09 17:24:01.6121 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-09 17:24:01.6541 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-09 17:24:51.2031 Info Message Template Auto Format enabled
+2023-04-09 17:24:51.3186 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-09 17:24:51.3372 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-09 17:25:30.8677 Info Message Template Auto Format enabled
+2023-04-09 17:25:30.9668 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-09 17:25:30.9882 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-09 17:28:01.0105 Info Configuration file change detected! Reloading in 1000ms...
+2023-04-09 17:28:04.8551 Info Message Template Auto Format enabled
+2023-04-09 17:28:05.1978 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-09 17:28:05.2336 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-09 17:48:04.9617 Info Message Template Auto Format enabled
+2023-04-09 17:48:05.0671 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-09 17:48:05.0860 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-09 17:51:37.4296 Info Message Template Auto Format enabled
+2023-04-09 17:51:37.5276 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-09 17:51:37.5452 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-09 19:11:47.9195 Info Message Template Auto Format enabled
+2023-04-09 19:11:48.0614 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-09 19:11:48.0862 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-09 19:24:07.2774 Info Message Template Auto Format enabled
+2023-04-09 19:24:07.3666 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-09 19:24:07.3850 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-09 19:27:46.9781 Info Message Template Auto Format enabled
+2023-04-09 19:27:47.0926 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-09 19:27:47.1133 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-09 19:29:20.9620 Info Message Template Auto Format enabled
+2023-04-09 19:29:21.0580 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-09 19:29:21.0759 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-09 20:08:15.2197 Info Message Template Auto Format enabled
+2023-04-09 20:08:15.3168 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-09 20:08:15.3352 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-09 20:33:13.8113 Info Message Template Auto Format enabled
+2023-04-09 20:33:13.9096 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-09 20:33:13.9281 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-09 20:36:12.6550 Info Message Template Auto Format enabled
+2023-04-09 20:36:12.7474 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-09 20:36:12.7655 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-09 20:42:20.8378 Info Message Template Auto Format enabled
+2023-04-09 20:42:20.9544 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-09 20:42:20.9758 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-09 20:45:41.5252 Info Message Template Auto Format enabled
+2023-04-09 20:45:41.6169 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-09 20:45:41.6353 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-09 20:47:54.9657 Info Message Template Auto Format enabled
+2023-04-09 20:47:55.1382 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-09 20:47:55.1595 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-09 20:48:25.2461 Info Message Template Auto Format enabled
+2023-04-09 20:48:25.3366 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-09 20:48:25.3544 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-09 20:50:55.0416 Info Message Template Auto Format enabled
+2023-04-09 20:50:55.1538 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-09 20:50:55.1736 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-09 20:52:44.3825 Info Message Template Auto Format enabled
+2023-04-09 20:52:44.4770 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-09 20:52:44.4954 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-09 20:54:33.8151 Info Message Template Auto Format enabled
+2023-04-09 20:54:33.9323 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-09 20:54:33.9518 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-09 20:58:59.7776 Info Message Template Auto Format enabled
+2023-04-09 20:58:59.8626 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-09 20:58:59.8788 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-09 20:59:08.9857 Info Message Template Auto Format enabled
+2023-04-09 20:59:09.1384 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-09 20:59:09.2040 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-09 21:01:41.5418 Info Message Template Auto Format enabled
+2023-04-09 21:01:41.6587 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-09 21:01:41.7228 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-09 21:30:59.1404 Info Message Template Auto Format enabled
+2023-04-09 21:30:59.3630 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-09 21:30:59.3804 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-09 21:38:07.7574 Info Message Template Auto Format enabled
+2023-04-09 21:38:07.8518 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-09 21:38:07.8719 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-09 21:47:23.1281 Info Message Template Auto Format enabled
+2023-04-09 21:47:23.2823 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-09 21:47:23.3089 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-09 22:23:50.1647 Info AppDomain Shutting down. LogFactory closing...
+2023-04-09 22:23:50.1879 Info LogFactory has been closed.
+2023-04-09 22:37:44.6764 Info Message Template Auto Format enabled
+2023-04-09 22:37:44.7840 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-09 22:37:44.8015 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-10 00:16:05.6140 Info Message Template Auto Format enabled
+2023-04-10 00:16:05.7275 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-10 00:16:05.7517 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-10 00:35:54.5476 Info Message Template Auto Format enabled
+2023-04-10 00:35:54.7026 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-10 00:35:54.7209 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-10 00:38:55.4552 Info Message Template Auto Format enabled
+2023-04-10 00:38:55.7168 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-10 00:38:55.7568 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-10 00:48:15.4457 Info Message Template Auto Format enabled
+2023-04-10 00:48:15.9992 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-10 00:48:16.0361 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-10 00:48:48.9283 Info Message Template Auto Format enabled
+2023-04-10 00:48:49.0372 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-10 00:48:49.0594 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-10 00:51:02.4009 Info Message Template Auto Format enabled
+2023-04-10 00:51:02.6830 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-10 00:51:02.7120 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-10 00:51:25.2367 Info Message Template Auto Format enabled
+2023-04-10 00:51:25.3466 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-10 00:51:25.3679 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-10 00:53:27.1620 Info Message Template Auto Format enabled
+2023-04-10 00:53:27.2597 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-10 00:53:27.2784 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-10 00:55:55.9321 Info Message Template Auto Format enabled
+2023-04-10 00:55:56.0952 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-10 00:55:56.1142 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-10 00:56:12.8460 Info Message Template Auto Format enabled
+2023-04-10 00:56:13.1088 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-10 00:56:13.1250 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-10 01:03:30.5962 Info Message Template Auto Format enabled
+2023-04-10 01:03:30.7426 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-10 01:03:30.8159 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-10 01:08:48.6341 Info Message Template Auto Format enabled
+2023-04-10 01:08:48.7271 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-10 01:08:48.7456 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-10 01:10:32.2634 Info Message Template Auto Format enabled
+2023-04-10 01:10:32.3728 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-10 01:10:32.4004 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-10 01:11:05.8687 Info Message Template Auto Format enabled
+2023-04-10 01:11:05.9663 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-10 01:11:05.9860 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-10 01:13:08.9229 Info Message Template Auto Format enabled
+2023-04-10 01:13:09.0381 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-10 01:13:09.0637 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-10 01:22:35.4805 Info Message Template Auto Format enabled
+2023-04-10 01:22:35.5838 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-10 01:22:35.6064 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-10 01:35:55.1051 Info Message Template Auto Format enabled
+2023-04-10 01:35:55.2948 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-10 01:35:55.3211 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-11 18:37:59.2115 Info Message Template Auto Format enabled
+2023-04-11 18:37:59.3999 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-11 18:37:59.4671 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-11 18:42:28.5352 Info Message Template Auto Format enabled
+2023-04-11 18:42:28.6363 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-11 18:42:28.6569 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-11 19:16:24.9200 Info Message Template Auto Format enabled
+2023-04-11 19:16:25.0260 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-11 19:16:25.0462 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-11 19:18:40.4438 Info Message Template Auto Format enabled
+2023-04-11 19:18:40.5511 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-11 19:18:40.5753 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-11 19:30:53.9926 Info Message Template Auto Format enabled
+2023-04-11 19:30:54.1118 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-11 19:30:54.1303 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-11 19:32:21.5092 Info Message Template Auto Format enabled
+2023-04-11 19:32:21.6321 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-11 19:32:21.6567 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-11 20:16:30.1211 Info Message Template Auto Format enabled
+2023-04-11 20:16:30.2164 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-11 20:16:30.2330 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-11 20:17:12.5548 Info AppDomain Shutting down. LogFactory closing...
+2023-04-11 20:17:12.5646 Info LogFactory has been closed.
+2023-04-11 20:17:32.8192 Info Message Template Auto Format enabled
+2023-04-11 20:17:32.9146 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-11 20:17:32.9309 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-11 20:18:15.7155 Info AppDomain Shutting down. LogFactory closing...
+2023-04-11 20:18:15.7247 Info LogFactory has been closed.
+2023-04-11 20:19:21.6739 Info Message Template Auto Format enabled
+2023-04-11 20:19:21.7713 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-11 20:19:21.7898 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-11 20:55:13.5523 Info Message Template Auto Format enabled
+2023-04-11 20:55:13.7564 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-11 20:55:13.7760 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-11 20:57:10.4522 Info Message Template Auto Format enabled
+2023-04-11 20:57:10.6086 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-11 20:57:10.6279 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-11 21:18:31.5546 Info Message Template Auto Format enabled
+2023-04-11 21:18:31.7018 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-11 21:18:31.7250 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-11 22:09:04.5711 Info Message Template Auto Format enabled
+2023-04-11 22:09:04.6293 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-11 22:09:04.6441 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-11 22:09:06.0716 Info AppDomain Shutting down. LogFactory closing...
+2023-04-11 22:09:06.0828 Info LogFactory has been closed.
+2023-04-11 22:09:12.5081 Info Message Template Auto Format enabled
+2023-04-11 22:09:12.5676 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-11 22:09:12.5811 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-11 22:09:13.8291 Info AppDomain Shutting down. LogFactory closing...
+2023-04-11 22:09:13.8291 Info LogFactory has been closed.
+2023-04-11 22:09:29.6626 Info Message Template Auto Format enabled
+2023-04-11 22:09:29.7089 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-11 22:09:29.7221 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-11 22:09:30.8461 Info AppDomain Shutting down. LogFactory closing...
+2023-04-11 22:09:30.8461 Info LogFactory has been closed.
+2023-04-11 22:10:27.4857 Info Message Template Auto Format enabled
+2023-04-11 22:10:27.5331 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-11 22:10:27.5470 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-11 22:10:28.2390 Info AppDomain Shutting down. LogFactory closing...
+2023-04-11 22:10:28.2390 Info LogFactory has been closed.
+2023-04-11 22:10:36.4876 Info Message Template Auto Format enabled
+2023-04-11 22:10:36.5334 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-11 22:10:36.5471 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-11 22:10:37.8226 Info AppDomain Shutting down. LogFactory closing...
+2023-04-11 22:10:37.8306 Info LogFactory has been closed.
+2023-04-11 22:13:29.4213 Info Message Template Auto Format enabled
+2023-04-11 22:13:29.4714 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-11 22:13:29.4856 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-11 22:13:30.1918 Info AppDomain Shutting down. LogFactory closing...
+2023-04-11 22:13:30.1918 Info LogFactory has been closed.
+2023-04-11 22:13:42.4059 Info Message Template Auto Format enabled
+2023-04-11 22:13:42.4538 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-11 22:13:42.4677 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-11 22:13:43.2215 Info AppDomain Shutting down. LogFactory closing...
+2023-04-11 22:13:43.2215 Info LogFactory has been closed.
+2023-04-11 22:14:08.9337 Info Message Template Auto Format enabled
+2023-04-11 22:14:08.9816 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-11 22:14:08.9969 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-11 22:14:09.6936 Info AppDomain Shutting down. LogFactory closing...
+2023-04-11 22:14:09.6936 Info LogFactory has been closed.
+2023-04-11 22:15:38.3549 Info Message Template Auto Format enabled
+2023-04-11 22:15:38.4028 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-11 22:15:38.4161 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-11 22:15:39.0966 Info AppDomain Shutting down. LogFactory closing...
+2023-04-11 22:15:39.0966 Info LogFactory has been closed.
+2023-04-11 22:15:46.7325 Info Message Template Auto Format enabled
+2023-04-11 22:15:46.7787 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-11 22:15:46.7920 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-11 22:15:47.6040 Info AppDomain Shutting down. LogFactory closing...
+2023-04-11 22:15:47.6125 Info LogFactory has been closed.
+2023-04-11 22:16:02.5074 Info Message Template Auto Format enabled
+2023-04-11 22:16:02.5530 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-11 22:16:02.5667 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-11 22:16:04.2307 Info AppDomain Shutting down. LogFactory closing...
+2023-04-11 22:16:04.2383 Info LogFactory has been closed.
+2023-04-11 22:17:40.5196 Info Message Template Auto Format enabled
+2023-04-11 22:17:40.5657 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-11 22:17:40.5790 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-11 22:17:41.2566 Info AppDomain Shutting down. LogFactory closing...
+2023-04-11 22:17:41.2639 Info LogFactory has been closed.
+2023-04-11 22:17:43.4042 Info Message Template Auto Format enabled
+2023-04-11 22:17:43.4500 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-11 22:17:43.4635 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-11 22:17:44.4201 Info AppDomain Shutting down. LogFactory closing...
+2023-04-11 22:17:44.4278 Info LogFactory has been closed.
+2023-04-11 22:18:26.9364 Info Message Template Auto Format enabled
+2023-04-11 22:18:26.9834 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-11 22:18:26.9834 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-11 22:18:27.7094 Info AppDomain Shutting down. LogFactory closing...
+2023-04-11 22:18:27.7179 Info LogFactory has been closed.
+2023-04-11 22:18:35.0563 Info Message Template Auto Format enabled
+2023-04-11 22:18:35.1028 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-11 22:18:35.1158 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-11 22:18:35.9815 Info AppDomain Shutting down. LogFactory closing...
+2023-04-11 22:18:35.9899 Info LogFactory has been closed.
+2023-04-11 22:19:52.2706 Info Message Template Auto Format enabled
+2023-04-11 22:19:52.3178 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-11 22:19:52.3324 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-11 22:19:53.1700 Info AppDomain Shutting down. LogFactory closing...
+2023-04-11 22:19:53.1772 Info LogFactory has been closed.
+2023-04-11 22:19:58.5748 Info Message Template Auto Format enabled
+2023-04-11 22:19:58.6220 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-11 22:19:58.6353 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-11 22:20:00.1453 Info AppDomain Shutting down. LogFactory closing...
+2023-04-11 22:20:00.1561 Info LogFactory has been closed.
+2023-04-11 22:26:51.8485 Info Message Template Auto Format enabled
+2023-04-11 22:26:51.8953 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-11 22:26:51.9088 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-11 22:26:52.8108 Info AppDomain Shutting down. LogFactory closing...
+2023-04-11 22:26:52.8180 Info LogFactory has been closed.
+2023-04-11 22:27:00.2496 Info Message Template Auto Format enabled
+2023-04-11 22:27:00.3029 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-11 22:27:00.3197 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-11 22:27:01.8059 Info AppDomain Shutting down. LogFactory closing...
+2023-04-11 22:27:01.8156 Info LogFactory has been closed.
+2023-04-12 00:50:35.7605 Info Message Template Auto Format enabled
+2023-04-12 00:50:36.3205 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 00:50:36.3560 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-12 00:57:08.3002 Info Message Template Auto Format enabled
+2023-04-12 00:57:08.3463 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 00:57:08.3606 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-12 00:57:09.2298 Info AppDomain Shutting down. LogFactory closing...
+2023-04-12 00:57:09.2384 Info LogFactory has been closed.
+2023-04-12 00:57:10.5436 Info Message Template Auto Format enabled
+2023-04-12 00:57:10.5892 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 00:57:10.6025 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-12 00:57:11.7238 Info AppDomain Shutting down. LogFactory closing...
+2023-04-12 00:57:11.7238 Info LogFactory has been closed.
+2023-04-12 00:57:17.4822 Info Message Template Auto Format enabled
+2023-04-12 00:57:17.5344 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 00:57:17.5493 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-12 00:57:18.3490 Info AppDomain Shutting down. LogFactory closing...
+2023-04-12 00:57:18.3490 Info LogFactory has been closed.
+2023-04-12 00:57:27.2639 Info Message Template Auto Format enabled
+2023-04-12 00:57:27.3093 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 00:57:27.3223 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-12 00:57:28.2298 Info AppDomain Shutting down. LogFactory closing...
+2023-04-12 00:57:28.2370 Info LogFactory has been closed.
+2023-04-12 00:57:32.5564 Info Message Template Auto Format enabled
+2023-04-12 00:57:32.6054 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 00:57:32.6202 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-12 00:57:34.2549 Info AppDomain Shutting down. LogFactory closing...
+2023-04-12 00:57:34.2549 Info LogFactory has been closed.
+2023-04-12 00:57:41.0502 Info Message Template Auto Format enabled
+2023-04-12 00:57:41.1601 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 00:57:41.1864 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-12 01:03:52.2067 Info Message Template Auto Format enabled
+2023-04-12 01:03:52.2985 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 01:03:52.3172 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-12 01:06:47.9708 Info Message Template Auto Format enabled
+2023-04-12 01:06:48.0975 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 01:06:48.1169 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-12 01:08:26.3314 Info Message Template Auto Format enabled
+2023-04-12 01:08:26.9672 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 01:08:27.0296 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-12 01:08:41.5455 Info Message Template Auto Format enabled
+2023-04-12 01:08:41.6458 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 01:08:41.6645 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-12 01:15:22.6405 Info Message Template Auto Format enabled
+2023-04-12 01:15:22.7486 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 01:15:22.7682 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-12 01:16:17.4925 Info Message Template Auto Format enabled
+2023-04-12 01:16:17.5848 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 01:16:17.6075 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-12 01:16:52.5263 Info Message Template Auto Format enabled
+2023-04-12 01:16:52.6292 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 01:16:52.6503 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-12 01:17:37.0398 Info Message Template Auto Format enabled
+2023-04-12 01:17:37.1330 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 01:17:37.1508 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-12 01:22:02.2852 Info Message Template Auto Format enabled
+2023-04-12 01:22:02.3815 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 01:22:02.4023 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-12 01:22:19.4080 Info Message Template Auto Format enabled
+2023-04-12 01:22:19.5032 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 01:22:19.5248 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-12 01:22:49.1388 Info Message Template Auto Format enabled
+2023-04-12 01:22:49.2396 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 01:22:49.2577 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-12 01:29:21.8772 Info Message Template Auto Format enabled
+2023-04-12 01:29:21.9742 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 01:29:21.9945 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-12 01:32:18.4429 Info Message Template Auto Format enabled
+2023-04-12 01:32:18.5426 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 01:32:18.5688 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-12 01:32:51.9816 Info Message Template Auto Format enabled
+2023-04-12 01:32:52.1216 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 01:32:52.1460 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-12 01:34:00.1718 Info Message Template Auto Format enabled
+2023-04-12 01:34:00.2190 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 01:34:00.2190 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-12 01:34:00.9951 Info AppDomain Shutting down. LogFactory closing...
+2023-04-12 01:34:01.0032 Info LogFactory has been closed.
+2023-04-12 01:34:02.2750 Info Message Template Auto Format enabled
+2023-04-12 01:34:02.3218 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 01:34:02.3352 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-12 01:34:03.3380 Info AppDomain Shutting down. LogFactory closing...
+2023-04-12 01:34:03.3454 Info LogFactory has been closed.
+2023-04-12 01:34:09.3129 Info Message Template Auto Format enabled
+2023-04-12 01:34:09.3592 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 01:34:09.3592 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-12 01:34:10.2655 Info AppDomain Shutting down. LogFactory closing...
+2023-04-12 01:34:10.2655 Info LogFactory has been closed.
+2023-04-12 01:34:17.0994 Info Message Template Auto Format enabled
+2023-04-12 01:34:17.1517 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 01:34:17.1664 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-12 01:34:19.1857 Info AppDomain Shutting down. LogFactory closing...
+2023-04-12 01:34:19.1954 Info LogFactory has been closed.
+2023-04-12 01:34:26.7541 Info Message Template Auto Format enabled
+2023-04-12 01:34:26.8499 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 01:34:26.8683 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-12 01:38:43.7669 Info Message Template Auto Format enabled
+2023-04-12 01:38:43.8691 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 01:38:43.8881 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-12 01:43:11.4315 Info Message Template Auto Format enabled
+2023-04-12 01:43:11.5229 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 01:43:11.5435 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-12 01:44:20.2333 Info Message Template Auto Format enabled
+2023-04-12 01:44:20.3301 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 01:44:20.3524 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-12 01:53:39.1419 Info Message Template Auto Format enabled
+2023-04-12 01:53:39.2572 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 01:53:39.2819 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-12 01:57:49.5349 Info Message Template Auto Format enabled
+2023-04-12 01:57:49.6646 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 01:57:49.6823 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-12 01:58:09.6238 Info Message Template Auto Format enabled
+2023-04-12 01:58:09.7158 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 01:58:09.7349 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-12 01:59:41.9159 Info Message Template Auto Format enabled
+2023-04-12 01:59:42.0081 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 01:59:42.0287 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-12 02:01:22.9061 Info Message Template Auto Format enabled
+2023-04-12 02:01:23.0062 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 02:01:23.0227 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-12 02:02:37.1456 Info Message Template Auto Format enabled
+2023-04-12 02:02:37.2505 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 02:02:37.2716 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-12 02:04:15.6071 Info Message Template Auto Format enabled
+2023-04-12 02:04:15.7248 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 02:04:15.7427 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-12 02:05:58.7220 Info Message Template Auto Format enabled
+2023-04-12 02:05:58.8246 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 02:05:58.8428 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-12 02:08:49.4520 Info Message Template Auto Format enabled
+2023-04-12 02:08:49.5367 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 02:08:49.5526 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-12 02:10:29.8960 Info Message Template Auto Format enabled
+2023-04-12 02:10:30.0134 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 02:10:30.0399 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-12 02:10:55.2811 Info Message Template Auto Format enabled
+2023-04-12 02:10:55.3967 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 02:10:55.4147 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-12 02:11:35.5519 Info Message Template Auto Format enabled
+2023-04-12 02:11:35.6487 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 02:11:35.6727 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-12 02:15:51.1729 Info Message Template Auto Format enabled
+2023-04-12 02:15:51.2894 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 02:15:51.3055 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-12 02:17:22.7272 Info Message Template Auto Format enabled
+2023-04-12 02:17:22.8338 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 02:17:22.8589 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-12 02:28:21.4881 Info Message Template Auto Format enabled
+2023-04-12 02:28:21.6406 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 02:28:21.6714 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-12 02:32:13.1267 Info Message Template Auto Format enabled
+2023-04-12 02:32:13.1755 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 02:32:13.1894 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-12 02:32:13.9255 Info AppDomain Shutting down. LogFactory closing...
+2023-04-12 02:32:13.9255 Info LogFactory has been closed.
+2023-04-12 02:32:15.3516 Info Message Template Auto Format enabled
+2023-04-12 02:32:15.3976 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 02:32:15.4104 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-12 02:32:16.5144 Info AppDomain Shutting down. LogFactory closing...
+2023-04-12 02:32:16.5144 Info LogFactory has been closed.
+2023-04-12 02:32:25.8541 Info Message Template Auto Format enabled
+2023-04-12 02:32:25.9004 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 02:32:25.9136 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-12 02:32:26.8021 Info AppDomain Shutting down. LogFactory closing...
+2023-04-12 02:32:26.8021 Info LogFactory has been closed.
+2023-04-12 02:32:34.3089 Info Message Template Auto Format enabled
+2023-04-12 02:32:34.3550 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 02:32:34.3700 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-12 02:32:36.0234 Info AppDomain Shutting down. LogFactory closing...
+2023-04-12 02:32:36.0309 Info LogFactory has been closed.
+2023-04-12 02:32:44.8369 Info Message Template Auto Format enabled
+2023-04-12 02:32:44.9417 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 02:32:44.9603 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-12 04:57:34.8195 Info Message Template Auto Format enabled
+2023-04-12 04:57:34.8673 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 04:57:34.8816 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-12 04:57:35.6406 Info AppDomain Shutting down. LogFactory closing...
+2023-04-12 04:57:35.6406 Info LogFactory has been closed.
+2023-04-12 04:57:37.0989 Info Message Template Auto Format enabled
+2023-04-12 04:57:37.1441 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-12 04:57:37.1591 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\hhasa\source\repos\bsStoreApp\WebAPİ\nlog.config
+2023-04-12 04:57:38.1662 Info AppDomain Shutting down. LogFactory closing...
+2023-04-12 04:57:38.1742 Info LogFactory has been closed.
